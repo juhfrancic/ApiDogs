@@ -1,4 +1,4 @@
-﻿# Pastas de Build e Binários
+# Pastas de Build e Binários
 [Bb]in/
 [Oo]bj/
 [Dd]ebug/
