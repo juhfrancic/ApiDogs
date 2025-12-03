@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\models\\dto\\dogsapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\models\\dto\\dogsapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\controllers\\dogapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\controllers\\dogapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\repositories\\dogsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\repositories\\dogsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\models\\relationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\models\\relationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\models\\length.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\models\\length.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\models\\dto\\dataapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\models\\dto\\dataapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\service\\dogsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\service\\dogsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\data\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\data\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\models\\attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\models\\attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\apidogs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\apidogs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\models\\datagroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\models\\datagroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|c:\\users\\juhto\\source\\repos\\apidogs\\apidogs\\models\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9739CD7-AB48-5BE5-C2A7-C0C960D1291E}|ApiDogs\\ApiDogs.csproj|solutionrelative:apidogs\\models\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DogsApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\DTO\\DogsApiResponse.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Models\\DTO\\DogsApiResponse.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\DTO\\DogsApiResponse.cs",
+              "RelativeToolTip": "ApiDogs\\Models\\DTO\\DogsApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:09:12.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogApiController.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Controllers\\DogApiController.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Controllers\\DogApiController.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Controllers\\DogApiController.cs",
+              "RelativeToolTip": "ApiDogs\\Controllers\\DogApiController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:33:16.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Service\\Program.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Service\\Program.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Service\\Program.cs",
+              "RelativeToolTip": "ApiDogs\\Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:56:52.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DogsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Repositories\\DogsRepository.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Repositories\\DogsRepository.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Repositories\\DogsRepository.cs",
+              "RelativeToolTip": "ApiDogs\\Repositories\\DogsRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:38:43.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\Group.cs",
+              "RelativeToolTip": "ApiDogs\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:25:14.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Relationship.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\Relationship.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Models\\Relationship.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\Relationship.cs",
+              "RelativeToolTip": "ApiDogs\\Models\\Relationship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:49:33.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Length.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\Length.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Models\\Length.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\Length.cs",
+              "RelativeToolTip": "ApiDogs\\Models\\Length.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:15:40.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataApi.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\DTO\\DataApi.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Models\\DTO\\DataApi.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\DTO\\DataApi.cs",
+              "RelativeToolTip": "ApiDogs\\Models\\DTO\\DataApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T18:58:38.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiDogs\\appsettings.json",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\appsettings.json",
+              "RelativeToolTip": "ApiDogs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T16:27:58.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DogsService.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Service\\DogsService.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Service\\DogsService.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Service\\DogsService.cs",
+              "RelativeToolTip": "ApiDogs\\Service\\DogsService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:41:51.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConnectionDB.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Data\\ConnectionDB.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Data\\ConnectionDB.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Data\\ConnectionDB.cs",
+              "RelativeToolTip": "ApiDogs\\Data\\ConnectionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:18:45.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Attribute.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\Attribute.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Models\\Attribute.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\Attribute.cs",
+              "RelativeToolTip": "ApiDogs\\Models\\Attribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:18:54.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ApiDogs\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:32:38.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiDogs.csproj",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\ApiDogs.csproj",
+              "RelativeDocumentMoniker": "ApiDogs\\ApiDogs.csproj",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\ApiDogs.csproj",
+              "RelativeToolTip": "ApiDogs\\ApiDogs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T13:20:20.277Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "1c3fc23b-5ffa-4bef-af5f-65b72b562d6a",
+        "Display": 0,
+        "X": 88,
+        "Y": 0,
+        "Width": 1342,
+        "Height": 814,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataGroup.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\DataGroup.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Models\\DataGroup.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\DataGroup.cs",
+              "RelativeToolTip": "ApiDogs\\Models\\DataGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:21:43.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dado.cs",
+              "DocumentMoniker": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\Dado.cs",
+              "RelativeDocumentMoniker": "ApiDogs\\Models\\Dado.cs",
+              "ToolTip": "C:\\Users\\juhto\\source\\repos\\ApiDogs\\ApiDogs\\Models\\Dado.cs",
+              "RelativeToolTip": "ApiDogs\\Models\\Dado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:46:41.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

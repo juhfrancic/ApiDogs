@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ApiDogs/CopilotIndices/18.0.934.24903/CodeChunks.db
+/.vs/ApiDogs/CopilotIndices/18.0.934.24903/CodeChunks.db-wal
+/.vs/ApiDogs/CopilotIndices/18.0.934.24903/CodeChunks.db-shm
+/.vs/ApiDogs/CopilotIndices/18.0.934.24903/SemanticSymbols.db-shm
+/.vs/ApiDogs/CopilotIndices/18.0.934.24903/SemanticSymbols.db
+/.vs/ApiDogs/CopilotIndices/18.0.934.24903/SemanticSymbols.db-wal
+/.gitignore.txt
